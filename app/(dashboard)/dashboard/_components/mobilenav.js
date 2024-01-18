@@ -30,6 +30,16 @@ export default function MobileNav() {
                   <Link href="/dashboard">Dashboard</Link>
                 </Button>
               </li>
+              <li>
+                <Button variant="outline">
+                  <Link href="/search">Search</Link>
+                </Button>
+              </li>
+              <li>
+                <Button variant="outline">
+                  <Link href="/user-profile">User Profile</Link>
+                </Button>
+              </li>
             </ul>
           </SheetHeader>
         </SheetContent>
